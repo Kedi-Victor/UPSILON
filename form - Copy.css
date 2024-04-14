@@ -1,0 +1,49 @@
+
+.main-div {
+  border: 1px solid ;
+  height: 1500px;
+  width: 70%;
+  margin: 0 auto;
+  background-color: blanchedalmond;
+}
+header {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 200px;
+  font-size: 35px;
+}
+.border {
+  border: 1px solid;
+  padding: 70px;
+  float: right;
+  margin: 50px;
+}
+form {
+  text-align: left;
+  margin-left: 80px;
+  font-size: 24px;
+}
+input {
+  background-color: blanchedalmond;
+  display: ;
+  border: 0;
+  border-bottom: 1px solid;
+  border-style: dashed;
+  width: 900px;
+  margin-left: 10px;
+  margin-bottom: 12px;
+
+}
+.first {
+  margin-top: 200px;  
+}
+.pre {
+  font-size: 20px;
+  margin-top: 70px;
+}
+footer {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  margin-top: 25px;
+}
